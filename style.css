@@ -1,0 +1,22 @@
+textarea {
+  
+  width:100%;
+  height: 75vh;
+  resize: none;
+  margin-top: 20px;
+  
+}
+
+.text-output {
+  
+  margin-top: 20px;
+  height: 75vh;
+  
+}
+
+.message {
+  
+  height: 30px;
+  font-size: 150%;
+  
+}
